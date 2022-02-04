@@ -13,10 +13,10 @@ Models are trained on the HKU GPU farm
 
 1) PSPNet 
 <br> Dataset: VOC2012 http://host.robots.ox.ac.uk/pascal/VOC/voc2012/ <br>
-<br> Pyramid Scene Parsing Network: https://arxiv.org/abs/1612.01105  <br>
+Pyramid Scene Parsing Network: https://arxiv.org/abs/1612.01105  <br>
 
 2) UNet
-<br> Dataset: Carvana Image Masking Challenge https://www.kaggle.com/c/carvana-image-masking-challenge <br> 
+<br> Dataset: Carvana Image Masking Challenge https://www.kaggle.com/c/carvana-image-masking-challenge
 <br> U-Net: Convolutional Networks for Biomedical Image Segmentation: https://arxiv.org/abs/1505.04597 <br>
 
 3) Vision Transformer 
