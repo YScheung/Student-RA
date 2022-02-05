@@ -32,7 +32,7 @@ seg_map = outputs[0]
 
 labels = ['background', 'aeroplane', 'bicycle', 'bird', 'boat', 'bottle', 'bus', 'car', 'cat', 'chair', 'cow', 'diningtable', 'dog', 'horse', 'motorbike', 'person', 'pottedplant', 'sheep', 'sofa', 'train', 'tvmonitor']
 
-VOC2012_map = np.array([  # Color responding to different classes 
+VOC2012_map = np.array([  # Color responding to different classes according to VOC2012 dataset
     [0, 0, 0],
     [128, 0, 0],
     [0, 128, 0],
