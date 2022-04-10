@@ -21,15 +21,3 @@ Pyramid Scene Parsing Network: https://arxiv.org/abs/1612.01105  <br>
 
 3) Vision Transformer 
 <br> An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale: https://arxiv.org/abs/2010.11929 <br>
-
-4) SIREN (trained on 2D images) 
-<br> Implicit Neural Representations with Periodic Activation Functions: https://arxiv.org/abs/2006.09661 <br> 
-
-
-
-
-
-
-
-
-
